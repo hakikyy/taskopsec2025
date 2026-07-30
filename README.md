@@ -19,8 +19,3 @@ Repository ini berisi hasil pengerjaan dua soal seleksi teknis SEVIMA:
 |---|---|
 | `Topologi-Hakikyy.pkt` | File proyek Cisco Packet Tracer — hasil pengerjaan **Soal Nomor 1**. Berisi topologi lengkap data center + 2 cabang beserta seluruh konfigurasi device (switch, router). |
 | `webgreat_sevima.pdf` | Laporan pengerjaan dalam bentuk PDF — mencakup dokumentasi dan bukti validasi dari **kedua soal** (Soal 1 & Soal 2), termasuk screenshot topologi, hasil `show` command, hasil ping antar site, serta konfigurasi CA, web server, dan HAProxy. |
-
-## Cara Membuka
-
-- **Topologi-Hakikyy.pkt** → dibuka menggunakan aplikasi [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (versi 8.x ke atas direkomendasikan).
-- **webgreat_sevima.pdf** → dapat dibuka dengan PDF reader mana pun.
